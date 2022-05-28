@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>DSC_0195.JPG</filename>
+	<path>/my-project-name/DSC_0195.JPG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>6000</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>D40</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>528</xmin>
+			<ymin>1282</ymin>
+			<xmax>2731</xmax>
+			<ymax>5569</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>D00</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>1880</xmin>
+			<ymin>0</ymin>
+			<xmax>4000</xmax>
+			<ymax>3035</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>DSC_0381.JPG</filename>
+	<path>/my-project-name/DSC_0381.JPG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>6000</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>D01</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>1159</xmin>
+			<ymin>140</ymin>
+			<xmax>2481</xmax>
+			<ymax>3396</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>D20</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>518</xmin>
+			<ymin>4047</ymin>
+			<xmax>3442</xmax>
+			<ymax>6000</ymax>
+		</bndbox>
+	</object>
+</annotation>

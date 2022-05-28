@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>DJI_0034.JPG</filename>
+	<path>/my-project-name/DJI_0034.JPG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>4864</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>D43</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>782</xmin>
+			<ymin>840</ymin>
+			<xmax>1525</xmax>
+			<ymax>3252</ymax>
+		</bndbox>
+	</object>
+</annotation>

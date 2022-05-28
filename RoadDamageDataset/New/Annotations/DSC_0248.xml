@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>DSC_0248.JPG</filename>
+	<path>/my-project-name/DSC_0248.JPG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>D10</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>1182</xmin>
+			<ymin>93</ymin>
+			<xmax>4988</xmax>
+			<ymax>2838</ymax>
+		</bndbox>
+	</object>
+</annotation>
